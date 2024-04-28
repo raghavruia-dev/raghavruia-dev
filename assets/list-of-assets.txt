@@ -1,5 +1,8 @@
+Source of assets: https://github.com/tandpfun/skill-icons
+
 List of assets:
 
 1-waving-hand.gif
 2-social-linkedin.svg
 3-social-twitter.svg
+4-gmail.svg
